@@ -72,4 +72,4 @@ What is proven is throughput, and finishing without supervision.
 
 ---
 
-**Quiet architect. Loud build-outs.**
+**Los Angeles.** Available for short, fixed-scope engagements.
