@@ -1,6 +1,8 @@
+# Yahmassiach Ben Levi Yisra'EL
+
 ## I find the most expensive broken thing and ship the fix.
 
-Los Angeles. I came to building from the business side — I learned to ship because the thing I
+Los Angeles, CA and Hampton, VA. I came to building from the business side — I learned to ship because the thing I
 needed didn't exist and waiting for someone else to build it was costing me more than learning to
 do it myself.
 
@@ -72,4 +74,4 @@ What is proven is throughput, and finishing without supervision.
 
 ---
 
-**Los Angeles.** Available for short, fixed-scope engagements.
+**Los Angeles, CA · Hampton, VA.** Available for short, fixed-scope engagements.
